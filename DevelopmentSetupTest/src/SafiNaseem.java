@@ -6,6 +6,9 @@ public class SafiNaseem {
 		System.out.print("this is a test");
 		
 		System.out.print("");
+		
+		System.out.print("merge error");
+		
 	}
 
 }
